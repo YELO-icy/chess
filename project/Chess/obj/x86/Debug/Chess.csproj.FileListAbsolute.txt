@@ -7,3 +7,6 @@ C:\Users\jedominguez\Source\Repos\chess\project\Chess\obj\x86\Debug\Chess.csproj
 C:\Users\jedominguez\Source\Repos\chess\project\Chess\obj\x86\Debug\Chess.csproj.CoreCompileInputs.cache
 C:\Users\jedominguez\Source\Repos\chess\project\Chess\obj\x86\Debug\Chess.exe
 C:\Users\jedominguez\Source\Repos\chess\project\Chess\obj\x86\Debug\Chess.pdb
+C:\Users\jedominguez\Documents\GitHub\CHessFork\project\Chess\obj\x86\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\jedominguez\Documents\GitHub\CHessFork\project\Chess\obj\x86\Debug\Chess.exe
+C:\Users\jedominguez\Documents\GitHub\CHessFork\project\Chess\obj\x86\Debug\Chess.pdb
