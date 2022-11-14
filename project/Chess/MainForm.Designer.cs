@@ -95,7 +95,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(16, 5, 0, 5);
-            this.menuStrip1.Size = new System.Drawing.Size(1691, 58);
+            this.menuStrip1.Size = new System.Drawing.Size(1691, 55);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -114,7 +114,7 @@
             this.toolStripSeparator1,
             this.exitToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(120, 48);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(120, 45);
             this.fileToolStripMenuItem.Text = "Game";
             // 
             // newAIGame
@@ -128,15 +128,13 @@
             // 
             this.newGameToolStripMenuItem.Name = "newGameToolStripMenuItem";
             this.newGameToolStripMenuItem.Size = new System.Drawing.Size(541, 54);
-            this.newGameToolStripMenuItem.Text = "New AI vs Player Game";
+            this.newGameToolStripMenuItem.Text = "New Chess 960";
             this.newGameToolStripMenuItem.Click += new System.EventHandler(this.NewGame);
             // 
             // chess960ToolStripMenuItem
             // 
-            this.newGameToolStripMenuItem.Name = "newGameToolStripMenuItem";
-            this.newGameToolStripMenuItem.Size = new System.Drawing.Size(541, 54);
-            this.newGameToolStripMenuItem.Text = "New Chess 960";
-            this.newGameToolStripMenuItem.Click += new System.EventHandler(this.NewGame);
+            this.chess960ToolStripMenuItem.Name = "chess960ToolStripMenuItem";
+            this.chess960ToolStripMenuItem.Size = new System.Drawing.Size(541, 54);
             // 
             // new2PlayerGameToolStripMenuItem
             // 
@@ -314,7 +312,7 @@
             this.mnuDif4,
             this.mnuDif5});
             this.difficultyDepthToolStripMenuItem.Name = "difficultyDepthToolStripMenuItem";
-            this.difficultyDepthToolStripMenuItem.Size = new System.Drawing.Size(266, 48);
+            this.difficultyDepthToolStripMenuItem.Size = new System.Drawing.Size(266, 45);
             this.difficultyDepthToolStripMenuItem.Text = "Difficulty (Depth)";
             // 
             // mnuDif1
@@ -388,7 +386,7 @@
             this.splitView.Dock = System.Windows.Forms.DockStyle.Fill;
             this.splitView.FixedPanel = System.Windows.Forms.FixedPanel.Panel2;
             this.splitView.IsSplitterFixed = true;
-            this.splitView.Location = new System.Drawing.Point(0, 58);
+            this.splitView.Location = new System.Drawing.Point(0, 55);
             this.splitView.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.splitView.Name = "splitView";
             // 
@@ -411,8 +409,8 @@
             this.splitView.Panel2.Controls.Add(this.label1);
             this.splitView.Panel2.Controls.Add(this.label2);
             this.splitView.Panel2MinSize = 200;
-            this.splitView.Size = new System.Drawing.Size(1691, 990);
-            this.splitView.SplitterDistance = 1457;
+            this.splitView.Size = new System.Drawing.Size(1691, 993);
+            this.splitView.SplitterDistance = 1450;
             this.splitView.SplitterWidth = 11;
             this.splitView.TabIndex = 2;
             // 
