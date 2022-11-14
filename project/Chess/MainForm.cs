@@ -216,5 +216,7 @@ namespace Chess
                 prgThinking.Style = ProgressBarStyle.Continuous;
             }
         }
+
+       
     }
 }

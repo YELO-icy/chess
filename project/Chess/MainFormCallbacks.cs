@@ -72,6 +72,7 @@ namespace Chess
             {
                 NewGame(2);
             }
+
         }
 
         private void Difficulty(object sender, EventArgs e)
